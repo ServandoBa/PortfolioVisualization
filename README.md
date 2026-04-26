@@ -1,4 +1,4 @@
-# Portfolio Management Visualization
+# Investment Portfolio Intelligence Dashboard
 
 ## Context
 I have a financial friend who approached me with a specific inquiry: the feasibility of monitoring his investment portfolio in one visualization. Recognizing the potential value in such a solution, I embarked on a project to create a tailored dashboard for him. The objective is to empower him with a data-driven tool that facilitates a comprehensive view of his portfolio distribution, enabling informed decision-making in managing his investments.
